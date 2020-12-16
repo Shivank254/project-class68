@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-image: url(background%20image.jpg)   
+}
+
+#image1{
+    width: 600px;
+    height: 300px;
+}
+
+#Main_tag{
+    color: darkblue;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.h1_tag{
+    color: darkblue;
+    font-family: monospace;
+    font-weight: lighter;
+}
+
+h3{
+    color: darkblue;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.change_marquee{
+    text-align: center;
+    margin: 40px;
+}
+
+.image2{
+    width: 500px;
+    height: 500px;
+}
+
+#important{
+    color: darkblue;
+    font-weight: bold;
+}
+
+.h1_tag2{
+    color: darkblue;
+    font-weight: bold;
+}
